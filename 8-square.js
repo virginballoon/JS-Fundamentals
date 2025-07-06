@@ -6,17 +6,17 @@ if (!isValid) {
 } else {
   let i =0;
 let j; 
-let x = "x";
+let x = "X";
 while (i != arguments)
 {
 j = 0;
 while (j != arguments-1)
 {
-x += "x";
+x += "X";
 j++;
 }
 console.log(x);
-x = "x";
+x = "X";
 i++;
 }
 }
