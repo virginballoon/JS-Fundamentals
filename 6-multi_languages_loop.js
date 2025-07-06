@@ -4,4 +4,4 @@ while(c[i])
     {
         console.log(c[i]);
         i++;
-    }
+    };
